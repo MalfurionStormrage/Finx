@@ -33,7 +33,7 @@ npm run build # crear dist del proyecto.
 ## Despliegue. &#128230;
 Se debe tener en cuenta que se puede tener el backend en un servidor y ser consumido desde un frontend montado en otro servidor debido a que es una api rest.
 
-A partir de aquí puedes hacer build del frontend, colocar dicha carpeta (dist  del frontend y recuerda cambiar el nombre a public y ademas agregar la carpeta "images" dentro de esta misma para los iconos pwa) en la carpeta dist del backend(si no esta, créala) y realizar deploy en servidores como heroku...
+A partir de aquí puedes hacer build del frontend, colocar dicha carpeta (dist  del frontend, recuerda cambiar el nombre a public y ademas agregar la carpeta "images" dentro de esta misma para los iconos pwa) en la carpeta dist del backend(si no esta, créala) y realizar deploy en servidores como heroku...
 
 O sencillamente hacer deploy del backend y consumirlo desde el frontend en otro servidor como netlify.
 
