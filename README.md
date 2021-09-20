@@ -44,6 +44,7 @@ O sencillamente hacer deploy del backend y consumirlo desde el frontend en otro 
 * JAVASCRIPT
 * Reactjs
 * Nodejs
+* Express
 * Mongodb
 
 ## Licencia
